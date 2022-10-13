@@ -11,7 +11,12 @@
 	<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
-	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=CSS&logoColor=white" />	
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=CSS&logoColor=white" />
+	</br>
+	</br>
+	<a href="https://zzuhyeng.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+	<a href="https://github.com/Zuhye/"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
 </div>
 </br>
 </br>
@@ -23,6 +28,5 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true">		
 </div>
 
-<div>
-	<a href="https://zzuhyeng.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
-</div>
+
+	
