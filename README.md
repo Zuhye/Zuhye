@@ -23,3 +23,6 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true">		
 </div>
 
+<div>
+	<a href="https://zzuhyeng.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</div>
