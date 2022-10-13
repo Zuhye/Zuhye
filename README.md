@@ -13,5 +13,8 @@
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=CSS&logoColor=white" />	
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true">
+<div align = "center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true">		
+</div>
+
