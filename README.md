@@ -1,6 +1,8 @@
 <div align = "center">
 	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Zuhye%&fontSize=90" />
 </div>
+</br>
+</br>
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
@@ -24,8 +26,7 @@
 </br>
 
 <div align = "center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true">		
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact">	
 </div>
 
 
