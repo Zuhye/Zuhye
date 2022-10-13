@@ -12,6 +12,10 @@
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=CSS&logoColor=white" />	
 </div>
+</br>
+</br>
+</br>
+</br>
 
 <div align = "center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact"><br><br>
