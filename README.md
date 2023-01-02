@@ -1,8 +1,11 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=B6F4FF&height=250&section=header&text=Zuhye%20GITHUB&fontSize=80&fontColor=ffffff" />	
+	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=B6F4FF&height=200&section=header&text=Zuhye%20achieve&fontSize=70&fontColor=ffffff" />
 </div>
 
-
+---
+ </br>
+ </br>
+ </br> 
 
 <h3 align="center"> 📚Tech Stack📚</h3>
 <div align="center">
@@ -32,12 +35,13 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 
-
-
-
+---
+ </br>
+ </br>
+ </br> 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuhye&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true&theme=dracula"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact&theme=dracula"> 
 </div>
