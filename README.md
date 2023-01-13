@@ -5,7 +5,6 @@
 ---
  </br>
  </br>
- </br> 
 
 <h3 align="center"> 📚Tech Stack📚</h3>
 <div align="center">
@@ -38,10 +37,8 @@
 ---
  </br>
  </br>
- </br> 
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true&theme=dracula"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhye&layout=compact&theme=dracula"> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=Zuhye&show_icons=true&theme=radical"/>
 </div>
