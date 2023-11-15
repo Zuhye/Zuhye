@@ -1,8 +1,4 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=B6F4FF&height=200&section=header&text=Zuhye%20achieve&fontSize=70&fontColor=ffffff" />
-</div>
 
----
  </br>
  </br>
 
